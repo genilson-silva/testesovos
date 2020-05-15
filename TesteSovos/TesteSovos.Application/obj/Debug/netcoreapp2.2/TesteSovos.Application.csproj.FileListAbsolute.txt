@@ -1,0 +1,14 @@
+C:\Users\prime.genilson\source\repos\TesteSovos\TesteSovos.Application\bin\Debug\netcoreapp2.2\TesteSovos.Application.deps.json
+C:\Users\prime.genilson\source\repos\TesteSovos\TesteSovos.Application\bin\Debug\netcoreapp2.2\TesteSovos.Application.dll
+C:\Users\prime.genilson\source\repos\TesteSovos\TesteSovos.Application\bin\Debug\netcoreapp2.2\TesteSovos.Application.pdb
+C:\Users\prime.genilson\source\repos\TesteSovos\TesteSovos.Application\obj\Debug\netcoreapp2.2\TesteSovos.Application.csprojAssemblyReference.cache
+C:\Users\prime.genilson\source\repos\TesteSovos\TesteSovos.Application\obj\Debug\netcoreapp2.2\TesteSovos.Application.csproj.CoreCompileInputs.cache
+C:\Users\prime.genilson\source\repos\TesteSovos\TesteSovos.Application\obj\Debug\netcoreapp2.2\TesteSovos.Application.AssemblyInfoInputs.cache
+C:\Users\prime.genilson\source\repos\TesteSovos\TesteSovos.Application\obj\Debug\netcoreapp2.2\TesteSovos.Application.AssemblyInfo.cs
+C:\Users\prime.genilson\source\repos\TesteSovos\TesteSovos.Application\obj\Debug\netcoreapp2.2\TesteSovos.Application.dll
+C:\Users\prime.genilson\source\repos\TesteSovos\TesteSovos.Application\obj\Debug\netcoreapp2.2\TesteSovos.Application.pdb
+C:\Users\prime.genilson\source\repos\TesteSovos\TesteSovos.Application\bin\Debug\netcoreapp2.2\TesteSovos.Domain.dll
+C:\Users\prime.genilson\source\repos\TesteSovos\TesteSovos.Application\bin\Debug\netcoreapp2.2\TesteSovos.Infrastructure.dll
+C:\Users\prime.genilson\source\repos\TesteSovos\TesteSovos.Application\bin\Debug\netcoreapp2.2\TesteSovos.Domain.pdb
+C:\Users\prime.genilson\source\repos\TesteSovos\TesteSovos.Application\bin\Debug\netcoreapp2.2\TesteSovos.Infrastructure.pdb
+C:\Users\prime.genilson\source\repos\TesteSovos\TesteSovos.Application\obj\Debug\netcoreapp2.2\TesteSovos.Application.csproj.CopyComplete

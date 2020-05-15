@@ -1,0 +1,14 @@
+C:\Users\prime.genilson\source\repos\TesteSovos\TesteSovos.Infrastructure\obj\Debug\netcoreapp2.2\TesteSovos.Infrastructure.csprojAssemblyReference.cache
+C:\Users\prime.genilson\source\repos\TesteSovos\TesteSovos.Infrastructure\obj\Debug\netcoreapp2.2\TesteSovos.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\prime.genilson\source\repos\TesteSovos\TesteSovos.Infrastructure\obj\Debug\netcoreapp2.2\TesteSovos.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\prime.genilson\source\repos\TesteSovos\TesteSovos.Infrastructure\obj\Debug\netcoreapp2.2\TesteSovos.Infrastructure.AssemblyInfo.cs
+C:\Users\prime.genilson\source\repos\TesteSovos\TesteSovos.Infrastructure\bin\Debug\netcoreapp2.2\TesteSovos.Infrastructure.deps.json
+C:\Users\prime.genilson\source\repos\TesteSovos\TesteSovos.Infrastructure\bin\Debug\netcoreapp2.2\TesteSovos.Infrastructure.dll
+C:\Users\prime.genilson\source\repos\TesteSovos\TesteSovos.Infrastructure\bin\Debug\netcoreapp2.2\TesteSovos.Infrastructure.pdb
+C:\Users\prime.genilson\source\repos\TesteSovos\TesteSovos.Infrastructure\obj\Debug\netcoreapp2.2\TesteSovos.Infrastructure.dll
+C:\Users\prime.genilson\source\repos\TesteSovos\TesteSovos.Infrastructure\obj\Debug\netcoreapp2.2\TesteSovos.Infrastructure.pdb
+C:\Users\prime.genilson\source\repos\TesteSovos\TesteSovos.Infrastructure\bin\Debug\netcoreapp2.2\TesteSovos.Domain.dll
+C:\Users\prime.genilson\source\repos\TesteSovos\TesteSovos.Infrastructure\bin\Debug\netcoreapp2.2\TesteSovos.Domain.pdb
+C:\Users\prime.genilson\source\repos\TesteSovos\TesteSovos.Infrastructure\obj\Debug\netcoreapp2.2\TesteSovos.Infrastructure.csproj.CopyComplete
+C:\Users\prime.genilson\source\repos\TesteSovos\TesteSovos.Infrastructure\bin\Debug\netcoreapp2.2\TesteSovos.Infrastructure.runtimeconfig.json
+C:\Users\prime.genilson\source\repos\TesteSovos\TesteSovos.Infrastructure\bin\Debug\netcoreapp2.2\TesteSovos.Infrastructure.runtimeconfig.dev.json
